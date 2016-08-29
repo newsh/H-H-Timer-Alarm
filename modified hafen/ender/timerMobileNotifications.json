@@ -1,0 +1,4 @@
+{
+	"webhook": "http://newsh.de/hnh/timerWebhook.php", //You can replace this webhook if you wish to run it on your own server. Leave it empty to disable this feature. 
+	"telegram": "chatid" //Replace chatid with your personal chatid (should look like this "telegram": "323876411") 
+}
