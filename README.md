@@ -9,7 +9,7 @@ This Telegram bot will notify you of current progress and finished timers create
 ###Running bot on own server###
 Interested in running bot on own server?
 
-1. Place php scripts on webserber. *Note: must be provided through HTTPS connection, as  Telegram API requires*
+1. Place php scripts on webserver. *Note: must be provided through HTTPS connection, as  Telegram API requires*
 2. Set up simple mySQL database with [this](src/hnh_2016-08-29_15-56-24.sql)
 3. Set up a Telegram bot following [this ](https://core.telegram.org/bots#create-a-new-bot)guide
 4. Modify all scripts and paste in your credentials in the first lines where needed.
