@@ -3,7 +3,7 @@ This Telegram bot will notify you of current progress and finished timers create
 ###Using the bot###
 
 1. Add @BrodgarBot to Telegram's contacts    
-2. Download modified version of H&H Custom client from Ender [here](modified hafen\ender)    
+2. Download modified version of H&H Custom client from Ender [here](modified hafen/ender)    
 3. Follow the instructions  
 
 ###Running bot on own server###
