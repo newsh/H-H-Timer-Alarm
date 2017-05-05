@@ -1,16 +1,17 @@
-#Notification for Timers in H&H ###
+# Notification for Timers in H&H 
+
 This Telegram bot will notify you of current progress and finished timers created in ["Haven & Hearth" MMO.](http://www.havenandhearth.com/portal/) 
-###Using the bot###
+### Using the bot
 
 1. Add @BrodgarBot to Telegram's contacts    
 2. Download modified version of H&H Custom client from Ender [here](modified hafen/ender)    
 3. Follow the instructions  
 
-###Running bot on own server###
+### Running bot on own server
 Interested in running bot on own server?
 
 1. Place php scripts on webserver. *Note: must be provided through HTTPS connection, as  Telegram API requires*
-2. Set up simple mySQL database with [this](src/hnh_2016-08-29_15-56-24.sql)
+2. Set up simple MySQL database with [this](src/hnh_2016-08-29_15-56-24.sql)
 3. Set up a Telegram bot following [this ](https://core.telegram.org/bots#create-a-new-bot)guide
 4. Modify all scripts and paste in your credentials in the first lines where needed.
 5. Now link created bot with scripts by setting up a webhook:  
